@@ -1,9 +1,9 @@
 ## Oiii eu sou a Stwuar Meneses, Estudante de programação e tecnologia!
 <div align="left">
   <a href="https://github.com/Stwuar">
-                                                                                                                                                               <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Stwuar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+                                                                                                                                                               <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Stwuar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
  
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stwuar&layout=compact&langs_count=7&theme=tokyonight"/>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stwuar&layout=compact&langs_count=7&theme=tokyonight"/>
 
 </div>
 
