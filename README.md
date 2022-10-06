@@ -1,4 +1,4 @@
-## Oiii eu sou a Stwuar Meneses, Estudante de programação e tecnologia Na TOTI!
+## Oiii eu sou a Stwuar Meneses, Estudante de programação e tecnologia!
 <div align="left">
   <a href="https://github.com/Stwuar">
                                                                                                                                                                <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Stwuar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
